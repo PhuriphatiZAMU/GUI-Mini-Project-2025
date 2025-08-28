@@ -101,9 +101,12 @@ GUI-Mini-Project-2025/
 ---
 
 ## 📸 Screenshots (Coming Soon)
-- Gameplay screen
-- Pause/Resume
-- Completed puzzle with score
+- **Gameplay screen**
+![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EVXCxPngROVEvKaS2VKKn5wBFh88xgF18a2WNmPm-E0npw?e=xSW2Tm)
+- **Pause/Resume**
+![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EUuMDczchEFKugFvMq-8VVcB0HkmKC8lcBTXXjyVtIGH2g?e=PhTcWE)
+- **Completed puzzle with score**
+![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EUftDGOY4DxGkT06nMevIG8BrdOB19PKmbLmTNo6OQfgaw?e=kqo94r)
 
 ---
 
@@ -113,6 +116,9 @@ GUI-Mini-Project-2025/
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License** – feel free to use and modify for learning purposes.
+## 📜 License
+
+This project is intended for educational and non-commercial use.
+
+> ⭐ If you find the code useful, feel free to star the repository!
 
