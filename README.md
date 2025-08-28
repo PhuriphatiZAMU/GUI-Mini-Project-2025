@@ -110,6 +110,9 @@ GUI-Mini-Project-2025/
 ### Pause/Resume
 ![Pause Screenshot](Gameplay/Puase.png)
 
+### Newgame
+![Pause Screenshot](Gameplay/New Game.png)
+
 
 ### Completed Puzzle
 ![Completed Puzzle Screenshot](Gameplay/Complete.png)
