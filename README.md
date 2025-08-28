@@ -111,7 +111,7 @@ GUI-Mini-Project-2025/
 ![Pause Screenshot](Gameplay/Puase.png)
 
 ### Newgame
-![Pause Screenshot](Gameplay/NewGame.png)
+![New Game Screenshot](Gameplay/NewGame.png)
 
 
 ### Completed Puzzle
