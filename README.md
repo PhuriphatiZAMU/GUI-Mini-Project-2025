@@ -100,14 +100,19 @@ GUI-Mini-Project-2025/
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-- **Gameplay screen**
-![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EVXCxPngROVEvKaS2VKKn5wBFh88xgF18a2WNmPm-E0npw?e=xSW2Tm)
-- **Pause/Resume**
-![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EUuMDczchEFKugFvMq-8VVcB0HkmKC8lcBTXXjyVtIGH2g?e=PhTcWE)
-- **Completed puzzle with score**
-![Online Image](https://1drv.ms/i/c/873b63fcf34663cf/EUftDGOY4DxGkT06nMevIG8BrdOB19PKmbLmTNo6OQfgaw?e=kqo94r)
+## 📸 Screenshots
 
+
+### Gameplay
+![Gameplay Screenshot](Gameplay/GamePlay.gif)
+
+
+### Pause/Resume
+![Pause Screenshot](Gameplay/Puase.png)
+
+
+### Completed Puzzle
+![Completed Puzzle Screenshot](Gameplay/Complete.png)
 ---
 
 ## 👥 Contributors
